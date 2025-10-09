@@ -8,7 +8,7 @@
   
 - 🔭 Atualmente, busco vaga de Analista de Sistemas .Net
   
-- 🌱 Mas, enquanto aguardo uma oportunidade estou aprendendo AWS e Python
+- 🌱 Mas, enquanto aguardo uma oportunidade, estou aprendendo AWS e Python
 <br>
 
 ## 💻 Ferramentas e Tecnologias
