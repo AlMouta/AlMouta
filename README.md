@@ -1,11 +1,14 @@
-# Olá, me chamo Alessandro Mouta Barboza 
+# Olá, me chamo Alessandro Mouta 
 ## Bem vindo ao meu perfil GitHub! 👋
 
-- :mortar_board: Sou formado em Ciência da Computação pela UNISUAM
+- :mortar_board: Sou formado em Ciência da Computação pela UNISUAM e faço Pós-Graduação em Data Analytics e Inteligência Artificial Aplicada a Negócios com a Hastag Treinamentos
+  
 - 💻 Possuo 16 anos de experiência no uso do framework .NET, trabalhando em empresas multinacionais como a Estácio, a Fundação Getulio Vargas e a Sonda IT
+  
 - 🔭 Atualmente, busco vaga de Analista de Sistemas .Net
-- 🌱 Mas enquanto o trabalho não vêm estou aprendendo AWS e Python
-
+  
+- 🌱 Mas, enquanto o trabalho não vêm estou aprendendo AWS e Python
+<br>
 
 ## 💻 Ferramentas e Tecnologias
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="50" height="50"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="50" height="50"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="50" height="50"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="50" height="50"/>
@@ -13,10 +16,11 @@
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="50" height="50"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width="50" height="50"/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="50" height="50"/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="50" height="50"/>     
-          
+<br>       
           
 ## Estou Estudando
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" height="50"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="50" height="50"/>
+<br>
 
 ## Contatos
 <div>
@@ -25,7 +29,8 @@
 <a href = "https://x.com/ALESSANDROMOUTA"><img loading="lazy" src="&https://img.shields.io/badge" target="_blank"></a>          
 <a href="https://www.linkedin.com/in/alessandro-mouta" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>            
-  
+<br>
+<br>
 <div>
 <a href="https://github.com/AlMouta">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlMouta&layout=compact&langs_count=7&theme=dracula"/>
