@@ -1,5 +1,5 @@
 # Olá, me chamo Alessandro Mouta
-## Bem vindo ao meu perfil GitHub! 👋
+## Bem-vindo ao meu perfil GitHub! 👋
 <br>
 
 - :mortar_board: Sou formado em Ciência da Computação pela UNISUAM e faço Pós-Graduação em Data Analytics e Inteligência Artificial Aplicada a Negócios com a Hastag Treinamentos
@@ -8,7 +8,7 @@
   
 - 🔭 Atualmente, busco vaga de Analista de Sistemas .Net
   
-- 🌱 Mas, enquanto o trabalho não vêm estou aprendendo AWS e Python
+- 🌱 Mas, enquanto aguardo uma oportunidade estou aprendendo AWS e Python
 <br>
 
 ## 💻 Ferramentas e Tecnologias
