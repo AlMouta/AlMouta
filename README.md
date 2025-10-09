@@ -2,7 +2,7 @@
 ## Bem-vindo ao meu perfil GitHub! 👋
 <br>
 
-- :mortar_board: Sou formado em Ciência da Computação pela UNISUAM e faço Pós-Graduação em Data Analytics e Inteligência Artificial Aplicada a Negócios com a Hastag Treinamentos
+- :mortar_board: Sou formado em Ciência da Computação pela UNISUAM e faço Pós-Graduação em Data Analytics e Inteligência Artificial Aplicada a Negócios com a Hashtag Treinamentos
   
 - 💻 Possuo 16 anos de experiência no uso do framework .NET, trabalhando em empresas multinacionais como a Estácio, a Fundação Getulio Vargas e a Sonda IT
   
