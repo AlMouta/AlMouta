@@ -1,5 +1,6 @@
-# Olá, me chamo Alessandro Mouta 
+# Olá, me chamo Alessandro Mouta
 ## Bem vindo ao meu perfil GitHub! 👋
+<br>
 
 - :mortar_board: Sou formado em Ciência da Computação pela UNISUAM e faço Pós-Graduação em Data Analytics e Inteligência Artificial Aplicada a Negócios com a Hastag Treinamentos
   
@@ -20,6 +21,7 @@
           
 ## Estou Estudando
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" height="50"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="50" height="50"/>
+<br>
 <br>
 
 ## Contatos
