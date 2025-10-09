@@ -4,9 +4,7 @@
 - :mortar_board: Sou formado em Ciência da Computação pela UNISUAM
 - 💻 Possuo 16 anos de experiência no uso do framework .NET, trabalhando em empresas multinacionais como a Estácio, a Fundação Getulio Vargas e a Sonda IT
 - 🔭 Atualmente, busco vaga de Analista de Sistemas
-- 🌱 Mas enquanto o trabalho não vem estou aprendendo AWS
-- 📫 Caso precise me contatar deixei o LinkedIn na minha página principal. O Instagram e X não vejo com muita frequência
-
+- 🌱 Mas enquanto o trabalho não vêm estou aprendendo AWS
 
 
 ## 💻 Ferramentas e Tecnologias
@@ -34,4 +32,4 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=AlMouta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-![Snake animation](https://github.com/AlMouta/AlMouta/blob/output/github-contribution-grid-snake.svg)
+<!--![Snake animation](https://github.com/AlMouta/AlMouta/blob/output/github-contribution-grid-snake.svg)-->
