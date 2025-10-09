@@ -1,4 +1,4 @@
-# Olá, me chamo Alessandro Mouta
+# Olá, eu me chamo Alessandro Mouta
 ## Bem-vindo ao meu perfil GitHub! 👋
 <br>
 
