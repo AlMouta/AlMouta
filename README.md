@@ -3,8 +3,8 @@
 
 - :mortar_board: Sou formado em Ciência da Computação pela UNISUAM
 - 💻 Possuo 16 anos de experiência no uso do framework .NET, trabalhando em empresas multinacionais como a Estácio, a Fundação Getulio Vargas e a Sonda IT
-- 🔭 Atualmente, busco vaga de Analista de Sistemas
-- 🌱 Mas enquanto o trabalho não vêm estou aprendendo AWS
+- 🔭 Atualmente, busco vaga de Analista de Sistemas .Net
+- 🌱 Mas enquanto o trabalho não vêm estou aprendendo AWS e Python
 
 
 ## 💻 Ferramentas e Tecnologias
