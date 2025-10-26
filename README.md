@@ -6,7 +6,7 @@
   
 - 💻 Possuo 14 anos de experiência no uso do framework .NET, trabalhando em empresas multinacionais como a Estácio, a Fundação Getulio Vargas e a Sonda IT
   
-- 🔭 Atualmente, busco vaga de Analista de Sistemas .Net
+- 🔭 Atualmente, busco vaga de Analista de Sistemas .NET
   
 - 🌱 Mas, enquanto aguardo uma oportunidade, estou aprendendo AWS e Python
 <br>
